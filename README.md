@@ -1,14 +1,14 @@
-# 20230420, 
+# 20261125, 
 # Merged subscription plan for all segment branch into ms-v2 base code
 
-# Multi-Service Branch 2021-11-08
+
 
 This branch is creating to write the code for all-in-one (multi-segments).
 
 #Project's Technical summary
 
-1) Laravel version : 5.6
-2) PHP version : >=7.3
+1) Laravel version : 12
+2) PHP version : >=8.2
 3) MySql version : 
 
 
